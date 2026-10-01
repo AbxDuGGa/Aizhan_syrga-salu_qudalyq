@@ -1,1 +1,1 @@
-window.INVITATION_CONFIG = { rsvpEndpoint: "https://script.google.com/macros/s/AKfycbzzpe-k4krZU7MRyM7_0awAFsWcykI8F2W1CWl3wzaKOWuwZkFqVqqA5SbFr2Ol_LXA/exec", eventId: "syrga-aizhan-daniyar-2026-10-15" };
+window.INVITATION_CONFIG = { rsvpEndpoint: "https://script.google.com/macros/s/AKfycbzzpe-k4krZU7MRyM7_0awAFsWcykI8F2W1CWl3wzaKOWuwZkFqVqqA5SbFr2Ol_LXA/exec", eventId: "syrga-aizhan-daniyar-2026-11-15" };
