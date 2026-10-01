@@ -17,3 +17,5 @@ h1,h2,h3,.couple,.day,.countdown,button,a,label,legend{font-style:italic}
 :root{--font:InvitationScript,Invitation,Georgia,serif}input{font-family:var(--font)}
 
 .music-toggle{position:fixed;right:20px;bottom:calc(20px + env(safe-area-inset-bottom));z-index:20;width:46px;height:46px;border:1px solid #b5a58a;border-radius:50%;background:#faf6ee;color:#3d3229;box-shadow:0 3px 12px #57442c25;font:25px Georgia;display:grid;place-items:center}.music-toggle[hidden]{display:none}.music-toggle:not(.playing):after{content:"";position:absolute;width:25px;height:1px;background:currentColor;transform:rotate(-45deg)}
+
+.door svg{color:#782e3e;opacity:.8}.venue-card h3{color:#782e3e}.entry-content .med{top:16%}.entry-title{top:33%;bottom:auto}.entry-title h2{font-size:clamp(34px,9vw,44px);line-height:1.2}.entry-button{top:60%;bottom:auto}.parents-invitation{padding:20px 4px 10px;line-height:1.8}.parents-invitation h2{font-size:29px;color:#782e3e;margin-bottom:20px}.parents-invitation h3{font-size:38px;color:#782e3e;margin:14px 0}.parents-invitation p{font-size:21px}
